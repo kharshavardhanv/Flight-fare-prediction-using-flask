@@ -1,0 +1,9 @@
+--set virtualenv path in system variables
+--set up paths of python,flask etc..
+--if requirements doesn't get installed, install packages manually by pip install package-name
+--follow readme
+
+
+-ctrl+c
+-deactivate
+-exit

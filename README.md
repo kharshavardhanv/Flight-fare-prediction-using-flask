@@ -8,7 +8,8 @@
       git clone https://github.com/kharshavardhanv/Flight-fare-prediction-using-flask.git
 * Open Windows Powershell >> navigate to new working directory (cloned repo folder)
 * Run Project in Flask (Using PIP + Virtualenv)
- 
+
+ using random forest regressor
 
 *******ensure python path is set to path folder********
 
